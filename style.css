@@ -1,0 +1,29 @@
+.list-img{
+    width: 50px;
+}
+
+summary{
+    display: flex;
+    align-items: center;
+}
+
+details{
+    width: 96%;
+    margin: auto;
+    border: 1px solid #313131;
+    padding: 4px;
+    border-radius: 4px;
+    margin-bottom: 2px;
+}
+
+.spacer{
+    flex-grow: 1;
+}
+
+.type{
+    padding: 2px;
+    margin: 2px;
+    border: 1px red solid;
+    border-radius: 4px;
+}
+
